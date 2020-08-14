@@ -1,0 +1,8 @@
+main: me.johnny.configexample.Main
+api-version: 1.15
+version: 1.0
+name: ExampleConfig
+
+commands:
+  testcmd:
+    usage: /testcmd
